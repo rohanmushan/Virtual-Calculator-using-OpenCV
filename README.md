@@ -59,7 +59,23 @@ This will help you in installing all the libraries required for the project.
 * Close the Application: Press "q" to exit, which stops the webcam and closes all OpenCV windows.  
 
 ## Features
-
+* Hand Gesture-Based Calculator – Perform calculations using only hand gestures, without touching a physical device.
+* Real-Time Hand Detection – Uses MediaPipe and OpenCV to track hand landmarks accurately.
+* Virtual Buttons Overlay – A graphical calculator interface is displayed on the webcam feed.
+* Gesture-Based Input –
+	* Move the index finger to hover over a button.
+ 	* Pinch (thumb & index finger touch) to press a button.
+* Mathematical Expression Evaluation – Supports basic arithmetic operations (+, -, ×, /, %)
+* Equation Display – Shows real-time input and results on the screen.
+* Clear Input – Press "C" to clear the current input and press "AC" to clear the all the inputs
+* Smoothing Mechanism – Reduces accidental touches and improves accuracy.
+* Minimalistic & Intuitive UI – Simple interface with smooth interactions.
+* Lightweight & Fast Processing – Ensures low latency for a seamless experience.
+* Easy Setup & Usage – Simple installation with minimal dependencies.
+* Cross-Platform Support – Runs on Windows, macOS, and Linux with a webcam.
+  
+## Future Scope Enhancements 
+* Potential to add scientific functions, advanced gestures, and voice commands.
 
 
 

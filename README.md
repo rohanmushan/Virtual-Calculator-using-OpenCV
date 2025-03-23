@@ -2,8 +2,8 @@
 >This Virtual Calculator is a Computer Vision-based project built using OpenCV and MediaPipe. It enables users to perform basic arithmetic operations using hand gestures, eliminating the need for physical keypads. The calculator detects fingers and interprets them as numbers or operations, making it an interactive and innovative way to calculate.
 
 ## Table of contents
-* [Screenshots](#screenshots)
 * [Demo](#demo)
+* [Screenshots](#screenshots)
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
 * [Process](#process)

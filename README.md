@@ -2,18 +2,12 @@
 >This Virtual Calculator is a Computer Vision-based project built using OpenCV and MediaPipe. It enables users to perform basic arithmetic operations using hand gestures, eliminating the need for physical keypads. The calculator detects fingers and interprets them as numbers or operations, making it an interactive and innovative way to calculate.
 
 ## Table of contents
-* [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Demo](#demo)
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
 * [Process](#process)
 * [Features](#features)
-
-## General info
-
-The theme at HACK UNT 19 was to use technology to improve accessibility by finding a creative solution to benefit the lives of those with a disability. 
-We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs, so we designed the app to work as a personal translator 24*7 for the deaf people.
 
 ## Demo
 ![Example screenshot](./img/demo4.gif)
@@ -26,8 +20,6 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 ![Example screenshot](./img/demo3.gif)
 
-
-**The entire demo of the project can be found on [YouTube](https://link.harshgupta.com/acd72).**
 
 
 ## Screenshots

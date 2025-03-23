@@ -48,9 +48,9 @@ This will help you in installing all the libraries required for the project.
 * Hand Detection using MediaPipe is used to track 21 hand landmarks, including fingertips and joints, to detect finger movements.
 * Virtual Calculator Interface is created using OpenCV, where buttons are drawn on the screen with specific coordinates for numbers, operators, and functions.
 * Detect Hand Gestures for interaction:
-	*Move your index finger over a button.
-  	*Pinch (touch thumb & index finger) to press a button.
-  	*The selected number/operator is added to the equation.
+ 	* Move your index finger over a button.
+  	* Pinch (touch thumb & index finger) to press a button.
+  	* The selected number/operator is added to the equation.
 * Run `load_images.py` to split all the captured gestures into training, validation and test set. 
 * To view all the gestures, run `display_gestures.py` .
 * Train the model using Keras by running `cnn_model_train.py`.

@@ -77,5 +77,11 @@ This will help you in installing all the libraries required for the project.
 ## Future Scope Enhancements 
 * Potential to add scientific functions, advanced gestures, and voice commands.
 
+## Copyright Notice
+* © 2025 Rohan Mushan. All rights reserved.  
+
+This project is open-source and available under the MIT License.  
+You are free to use, modify, and distribute this project with proper attribution.  
+
 
 

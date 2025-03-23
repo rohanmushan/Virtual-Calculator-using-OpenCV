@@ -25,7 +25,7 @@
 ## Screenshots
 
 ![Example screenshot](./assets/ss_calculator.png)
-![Example screenshot](./img/Capture.PNG)
+![Example screenshot](./assets/ss_hand.png)
 
 ## Technologies and Tools
 * Python 

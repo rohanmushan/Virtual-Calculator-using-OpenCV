@@ -8,6 +8,8 @@
 * [Setup](#setup)
 * [Process](#process)
 * [Features](#features)
+* [Future Scope](#futurescopeenhancements)
+* [Copyright](#copyright)
 
 ## Demo
 ![Example screenshot](./img/demo4.gif)

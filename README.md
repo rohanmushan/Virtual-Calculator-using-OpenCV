@@ -34,9 +34,6 @@ The **Virtual Hand Gesture Calculator** is a Python-based application that detec
 ---
 
 ## Screenshots
-| Gesture Detection | Virtual Buttons | Hand Pinch Click |
-|------------------|----------------|-----------------|
-| ![Gesture Detection](screenshots/gesture.png) | ![Virtual Buttons](screenshots/buttons.png) | ![Pinch Click](screenshots/pinch.png) |
 
 ---
 

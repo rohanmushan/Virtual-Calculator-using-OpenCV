@@ -36,9 +36,9 @@
 
 ## Setup
 
-* Use comand promt to setup environment by using install_packages.txt and install_packages_gpu.txt files. 
+* The project dependencies are listed in the requirements.txt file. Install them using:
  
-`pyton -m pip r install_packages.txt`
+`pip install -r requirements.txt`
 
 This will help you in installing all the libraries required for the project.
 

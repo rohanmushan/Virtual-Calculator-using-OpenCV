@@ -9,7 +9,7 @@
 * [Process](#process)
 * [Features](#features)
 * [Future Scope](#futurescopeenhancements)
-* [Copyright](#copyright)
+* [Copyright](#copy right)
 
 ## Demo
 ![Example screenshot](./img/demo4.gif)

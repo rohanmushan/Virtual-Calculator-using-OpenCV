@@ -32,6 +32,7 @@
 * OpenCV
 * Mediapipe
 * Numpy
+* tkinter
 
 ## Setup
 

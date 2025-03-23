@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-![Example screenshot](./img/Capture1.PNG)
+![Example screenshot](./assets/ss_calculator.png)
 ![Example screenshot](./img/Capture.PNG)
 
 ## Technologies and Tools

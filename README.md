@@ -1,6 +1,5 @@
-# Sign Language Interpreter using Deep Learning
-> A sign language interpreter using live video feed from the camera. 
-The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](https://link.harshgupta.com/acd72). 
+# Virtual Calculator using Computer vision
+>This Virtual Calculator is a Computer Vision-based project built using OpenCV and MediaPipe. It enables users to perform basic arithmetic operations using hand gestures, eliminating the need for physical keypads. The calculator detects fingers and interprets them as numbers or operations, making it an interactive and innovative way to calculate.
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,10 +8,7 @@ The project was completed in 24 hours as part of HackUNT-19, the University of N
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
 * [Process](#process)
-* [Code Examples](#code-examples)
 * [Features](#features)
-* [Status](#status)
-* [Contact](#contact)
 
 ## General info
 

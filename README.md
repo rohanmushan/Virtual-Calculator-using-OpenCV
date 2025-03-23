@@ -29,9 +29,9 @@
 
 ## Technologies and Tools
 * Python 
-* TensorFlow
-* Keras
 * OpenCV
+* Mediapipe
+* Numpy
 
 ## Setup
 

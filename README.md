@@ -51,10 +51,12 @@ This will help you in installing all the libraries required for the project.
  	* Move your index finger over a button.
   	* Pinch (touch thumb & index finger) to press a button.
   	* The selected number/operator is added to the equation.
-* Run `load_images.py` to split all the captured gestures into training, validation and test set. 
-* To view all the gestures, run `display_gestures.py` .
-* Train the model using Keras by running `cnn_model_train.py`.
-* Run `final.py`. This will open up the gesture recognition window which will use your webcam to interpret the trained American Sign Language gestures.  
+* Display and Evaluate Expression:
+	* The pressed buttons form a mathematical expression, displayed on the screen.
+  	* Pressing "=" evaluates the expression using Python's eval() function, and the result is displayed.
+* Clear or Restart Calculation: Pressing "C" clears the current input, allowing new calculations.
+* Run `virtual_calculator.py`. This will open up the calculator window which will use your webcam to perform arithmatic operations.
+* Close the Application: Press "q" to exit, which stops the webcam and closes all OpenCV windows.  
 
 ## Code Examples
 

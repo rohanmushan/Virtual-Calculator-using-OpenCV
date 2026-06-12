@@ -11,7 +11,7 @@
 
 ## Demo
 /*![Demo Video of Hand](./assets/Hand_Movement_Demo_1.gif)*/
-<video src="./assets/Hand_Movement_Demo_1.gif" controls width="800"></video>
+<video src="./assets/Hand_Movement_Demo_1.gif" controls width="1200"></video>
 
 ![Example screenshot](./img/demo2.gif)
 

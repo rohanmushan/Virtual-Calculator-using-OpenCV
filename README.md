@@ -10,7 +10,7 @@
 * [Features](#features)
 
 ## Demo
-![Demo Video of Hand](./Hand Movement - Demo 1.gif)
+![Demo Video of Hand](Hand Movement - Demo 1.gif)
 
 ![Example screenshot](./img/demo2.gif)
 

@@ -10,7 +10,8 @@
 * [Features](#features)
 
 ## Demo
-![Demo Video of Hand](./assets/Hand_Movement_Demo_1.gif)
+/*![Demo Video of Hand](./assets/Hand_Movement_Demo_1.gif)*/
+<video src="./assets/Hand_Movement_Demo_1.gif" controls width="800"></video>
 
 ![Example screenshot](./img/demo2.gif)
 

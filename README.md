@@ -11,7 +11,7 @@
 
 ## Demo
 /*![Demo Video of Hand](./assets/Hand_Movement_Demo_1.gif)*/
-<video src="./assets/Hand_Movement_Demo_1.gif" controls width="1200"></video>
+<video src="https://drive.google.com/file/d/1_KHeAitwbkdqR97Y2eb-18aDAk3E8K3u/view?usp=sharing" controls width="1200"></video>
 
 ![Example screenshot](./img/demo2.gif)
 

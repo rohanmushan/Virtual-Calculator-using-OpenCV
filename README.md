@@ -10,7 +10,7 @@
 * [Features](#features)
 
 ## Demo
-![Example screenshot](./img/demo4.gif)
+![Example screenshot](https://drive.google.com/file/d/1_KHeAitwbkdqR97Y2eb-18aDAk3E8K3u/view?usp=sharing)
 
 
 

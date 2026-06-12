@@ -10,8 +10,7 @@
 * [Features](#features)
 
 ## Demo
-<video src="https://github.com/rohanmushan/Virtual-Calculator-using-OpenCV/issues/1#issue-4650268307" controls width="800"></video>
-
+![Demo Video of Hand](./)
 
 ![Example screenshot](./img/demo2.gif)
 
